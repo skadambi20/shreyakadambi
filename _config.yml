@@ -165,6 +165,7 @@ kramdown:
 
 include: ['_pages']
 exclude:
+  - README.md
   - bin
   - Gemfile
   - Gemfile.lock
