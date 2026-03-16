@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://skadambi20.github.ioshreyakadambi/sitemap.xml
+Sitemap: https://skadambi20.github.io/shreyakadambi/sitemap.xml
