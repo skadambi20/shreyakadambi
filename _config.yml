@@ -312,12 +312,12 @@ medium_zoom:
 # JSON Resume
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - skills
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json
+# jsonresume:
+#   - basics
+#   - work
+#   - education
+#   - publications
+#   - skills
